@@ -1,0 +1,75 @@
+{
+  "tags" : [
+    {
+      "id": 1,
+      "label": "Business",
+      "color": "#FF3F61"
+    },
+    {
+      "id": 2,
+      "label": "To contact",
+      "color": "#B63FFF"
+    },
+    {
+      "id": 3,
+      "label": "Private",
+      "color": "#FF3FB2"
+    },
+    {
+      "id": 4,
+      "label": "Cocktail Evening",
+      "color": "#FFC266"
+    },
+    {
+      "id": 5,
+      "label": "Invite for the next event",
+      "color": "#FF6B00"
+    }
+  ],
+
+  "leads" : [
+    {
+      "id": 0,
+      "fullName": "Edwin Bossy",
+      "email": "edwin.bossy@gmail.com",
+      "tel": "06 58 11 25 56",
+      "tags": [1, 4]
+    },
+    {
+      "id": 1,
+      "fullName": "Antoine Iannello",
+      "email": "antoine.iannello@gmail.com",
+      "tel": "07 58 22 25 56",
+      "tags": [4, 2]
+    },
+    {
+      "id": 2,
+      "fullName": "Charles Petit",
+      "email": "charles.petit@gmail.com",
+      "tel": "06 58 33 25 56",
+      "tags": [2]
+    },
+    {
+      "id": 3,
+      "fullName": "Alice Campoleoni",
+      "email": "alice.campoleoni@gmail.com",
+      "tel": "07 58 44 25 56",
+      "tags": [1]
+    },
+    {
+      "id": 4,
+      "fullName": "Vinay Shukala",
+      "email": "vinay.shukala@gmail.com",
+      "tel": "06 58 54 25 56",
+      "tags": [5, 3]
+    },
+    {
+      "id": 5,
+      "fullName": "Stefano Lo Cicero",
+      "email": "stefano.lo.cicero@gmail.com",
+      "tel": "07 58 66 25 56",
+      "tags": [1, 4, 5]
+    }
+
+  ]
+}
